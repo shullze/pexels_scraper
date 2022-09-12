@@ -2,7 +2,7 @@
 
 Install python wrapper for API by --> pip install pexels-api
 
-Additional Reuired Moduled:
+Additional Reuired Moduls:
  * os
  * requests
  * argparser
